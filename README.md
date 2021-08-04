@@ -1,5 +1,4 @@
-# AkanGhana
-A short description on how Ghanian people are given their names
+
 ## PROJECT NAME 
 # Akan names
 
